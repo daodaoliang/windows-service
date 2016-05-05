@@ -11,7 +11,7 @@
 * This example application does nothing but goes to sleep and
 * waits for external stop signal from service.
 *
-* It implements the implicit interface required by the above Service class.
+* It implements the implicit interface required by Service class.
 *
 * Can be used as a template for your own applications.
 */
